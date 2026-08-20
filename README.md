@@ -1,5 +1,9 @@
 # BSGL: Bayesian Spatial Group Lasso
 
+<p align="center">
+  <img src="man/figures/logo.png" alt="BSGL hex logo" width="180">
+</p>
+
 This repository contains the reviewer-facing R implementation, prepared analysis data, retained result tables, and generated figures for the BSGL spatially varying coefficient paper submitted to the *Journal of Agricultural, Biological, and Environmental Statistics* (JABES).
 
 The demonstration workflows are designed to make the proposed BSGL method and the comparison methods easy to run from a standard R or RStudio session. The demo scripts install the BSGL package and required R-package dependencies when needed, obtain only the prepared data required for the selected example, fit the available methods independently, and write a common comparison table.

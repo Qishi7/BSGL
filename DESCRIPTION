@@ -37,6 +37,7 @@ Suggests:
     dplyr,
     fields,
     ggspatial,
+    hexSticker,
     knitr,
     rmarkdown
 VignetteBuilder: knitr
